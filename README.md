@@ -95,4 +95,4 @@ The work of PWLQ has given us great inspiration. Here is the code and paper of P
 
 https://github.com/jun-fang/PWLQ
 
-PyTorch Code for our paper at ECCV 2020 (**oral** presentation): **Post-Training Piecewise Linear Quantization for Deep Neural Networks** [[Paper]](https://github.com/jun-fang/PWLQ/blob/master/paper/2949.pdf) [[arXiv]](https://arxiv.org/abs/2002.00104) 
+PyTorch Code: **Post-Training Piecewise Linear Quantization for Deep Neural Networks** [[Paper]](https://github.com/jun-fang/PWLQ/blob/master/paper/2949.pdf) [[arXiv]](https://arxiv.org/abs/2002.00104) 
